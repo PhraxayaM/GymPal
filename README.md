@@ -8,6 +8,6 @@ Gym Pal is a personal project of mine aimed to create a buddy system between fri
 
 # Wireframe
 
-First basic wireframe
+First basic wireframe v1
 
-![Imgur Image](https://imgur.com/ropkiEZ.jpg)
+![Imgur Image](https://i.imgur.com/kM4S9UA.png)
