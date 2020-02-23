@@ -48,4 +48,6 @@ class MainView: UIView {
         return label
     }()
     
+    
+    
 }

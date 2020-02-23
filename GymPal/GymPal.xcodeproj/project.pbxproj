@@ -7,6 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CD27657A23F1B4FD00D174DC /* RoutinesCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD27657923F1B4FD00D174DC /* RoutinesCell.swift */; };
+		CD27C57423EDA7E3009C2FA9 /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD27C57323EDA7E3009C2FA9 /* MenuView.swift */; };
+		CD27C57623EDAD5D009C2FA9 /* MenuViewConstraints.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD27C57523EDAD5D009C2FA9 /* MenuViewConstraints.swift */; };
+		CD27C57823EDAEE6009C2FA9 /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD27C57723EDAEE6009C2FA9 /* MenuViewController.swift */; };
+		CD27C57A23EDB842009C2FA9 /* FriendsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD27C57923EDB842009C2FA9 /* FriendsView.swift */; };
+		CD27C57C23EDBB72009C2FA9 /* FriendsCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD27C57B23EDBB72009C2FA9 /* FriendsCollectionViewController.swift */; };
+		CD27C57E23EDBD45009C2FA9 /* FriendsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD27C57D23EDBD45009C2FA9 /* FriendsCell.swift */; };
+		CD33886224018EBF006DC720 /* CellGradientColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD33886124018EBF006DC720 /* CellGradientColor.swift */; };
+		CD42FC9A23EDC5B400E9ADC6 /* FriendsCellConstraints.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD42FC9923EDC5B400E9ADC6 /* FriendsCellConstraints.swift */; };
+		CD42FC9C23EF467F00E9ADC6 /* RoutinesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD42FC9B23EF467F00E9ADC6 /* RoutinesView.swift */; };
+		CD42FC9E23EF484400E9ADC6 /* RoutinesViewControllerCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD42FC9D23EF484400E9ADC6 /* RoutinesViewControllerCollectionViewController.swift */; };
+		CD7D393824030DCF0017821B /* RoutinesCollectionViewConstraints.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD7D393724030DCF0017821B /* RoutinesCollectionViewConstraints.swift */; };
 		CDFB884A23ECEC3000B652A6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDFB884923ECEC3000B652A6 /* AppDelegate.swift */; };
 		CDFB884C23ECEC3000B652A6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDFB884B23ECEC3000B652A6 /* SceneDelegate.swift */; };
 		CDFB884E23ECEC3000B652A6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDFB884D23ECEC3000B652A6 /* ContentView.swift */; };
@@ -15,10 +27,22 @@
 		CDFB885623ECEC3600B652A6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CDFB885423ECEC3600B652A6 /* LaunchScreen.storyboard */; };
 		CDFB885E23ECEC7E00B652A6 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDFB885D23ECEC7E00B652A6 /* MainViewController.swift */; };
 		CDFB886223ECED0A00B652A6 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDFB886123ECED0A00B652A6 /* MainView.swift */; };
-		CDFB886623ECF01D00B652A6 /* MenuViewContraints.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDFB886523ECF01D00B652A6 /* MenuViewContraints.swift */; };
+		CDFB886623ECF01D00B652A6 /* MainViewContraints.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDFB886523ECF01D00B652A6 /* MainViewContraints.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CD27657923F1B4FD00D174DC /* RoutinesCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoutinesCell.swift; sourceTree = "<group>"; };
+		CD27C57323EDA7E3009C2FA9 /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
+		CD27C57523EDAD5D009C2FA9 /* MenuViewConstraints.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuViewConstraints.swift; sourceTree = "<group>"; };
+		CD27C57723EDAEE6009C2FA9 /* MenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
+		CD27C57923EDB842009C2FA9 /* FriendsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendsView.swift; sourceTree = "<group>"; };
+		CD27C57B23EDBB72009C2FA9 /* FriendsCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendsCollectionViewController.swift; sourceTree = "<group>"; };
+		CD27C57D23EDBD45009C2FA9 /* FriendsCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendsCell.swift; sourceTree = "<group>"; };
+		CD33886124018EBF006DC720 /* CellGradientColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellGradientColor.swift; sourceTree = "<group>"; };
+		CD42FC9923EDC5B400E9ADC6 /* FriendsCellConstraints.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendsCellConstraints.swift; sourceTree = "<group>"; };
+		CD42FC9B23EF467F00E9ADC6 /* RoutinesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoutinesView.swift; sourceTree = "<group>"; };
+		CD42FC9D23EF484400E9ADC6 /* RoutinesViewControllerCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoutinesViewControllerCollectionViewController.swift; sourceTree = "<group>"; };
+		CD7D393724030DCF0017821B /* RoutinesCollectionViewConstraints.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoutinesCollectionViewConstraints.swift; sourceTree = "<group>"; };
 		CDFB884623ECEC3000B652A6 /* GymPal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GymPal.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDFB884923ECEC3000B652A6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CDFB884B23ECEC3000B652A6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -29,7 +53,7 @@
 		CDFB885723ECEC3600B652A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CDFB885D23ECEC7E00B652A6 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		CDFB886123ECED0A00B652A6 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
-		CDFB886523ECF01D00B652A6 /* MenuViewContraints.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuViewContraints.swift; sourceTree = "<group>"; };
+		CDFB886523ECF01D00B652A6 /* MainViewContraints.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewContraints.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +112,9 @@
 			isa = PBXGroup;
 			children = (
 				CDFB885D23ECEC7E00B652A6 /* MainViewController.swift */,
+				CD42FC9D23EF484400E9ADC6 /* RoutinesViewControllerCollectionViewController.swift */,
+				CD27C57723EDAEE6009C2FA9 /* MenuViewController.swift */,
+				CD27C57B23EDBB72009C2FA9 /* FriendsCollectionViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -96,6 +123,11 @@
 			isa = PBXGroup;
 			children = (
 				CDFB886123ECED0A00B652A6 /* MainView.swift */,
+				CD27C57323EDA7E3009C2FA9 /* MenuView.swift */,
+				CD42FC9B23EF467F00E9ADC6 /* RoutinesView.swift */,
+				CD27C57923EDB842009C2FA9 /* FriendsView.swift */,
+				CD27657923F1B4FD00D174DC /* RoutinesCell.swift */,
+				CD27C57D23EDBD45009C2FA9 /* FriendsCell.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -111,7 +143,11 @@
 		CDFB886423ECEFE300B652A6 /* Constraints */ = {
 			isa = PBXGroup;
 			children = (
-				CDFB886523ECF01D00B652A6 /* MenuViewContraints.swift */,
+				CDFB886523ECF01D00B652A6 /* MainViewContraints.swift */,
+				CD27C57523EDAD5D009C2FA9 /* MenuViewConstraints.swift */,
+				CD42FC9923EDC5B400E9ADC6 /* FriendsCellConstraints.swift */,
+				CD33886124018EBF006DC720 /* CellGradientColor.swift */,
+				CD7D393724030DCF0017821B /* RoutinesCollectionViewConstraints.swift */,
 			);
 			path = Constraints;
 			sourceTree = "<group>";
@@ -187,12 +223,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CDFB886623ECF01D00B652A6 /* MenuViewContraints.swift in Sources */,
+				CD27C57A23EDB842009C2FA9 /* FriendsView.swift in Sources */,
+				CD27C57423EDA7E3009C2FA9 /* MenuView.swift in Sources */,
+				CD33886224018EBF006DC720 /* CellGradientColor.swift in Sources */,
+				CDFB886623ECF01D00B652A6 /* MainViewContraints.swift in Sources */,
+				CD7D393824030DCF0017821B /* RoutinesCollectionViewConstraints.swift in Sources */,
+				CD42FC9A23EDC5B400E9ADC6 /* FriendsCellConstraints.swift in Sources */,
 				CDFB886223ECED0A00B652A6 /* MainView.swift in Sources */,
 				CDFB884A23ECEC3000B652A6 /* AppDelegate.swift in Sources */,
+				CD27657A23F1B4FD00D174DC /* RoutinesCell.swift in Sources */,
+				CD27C57823EDAEE6009C2FA9 /* MenuViewController.swift in Sources */,
+				CD27C57C23EDBB72009C2FA9 /* FriendsCollectionViewController.swift in Sources */,
+				CD27C57E23EDBD45009C2FA9 /* FriendsCell.swift in Sources */,
+				CD27C57623EDAD5D009C2FA9 /* MenuViewConstraints.swift in Sources */,
 				CDFB885E23ECEC7E00B652A6 /* MainViewController.swift in Sources */,
 				CDFB884C23ECEC3000B652A6 /* SceneDelegate.swift in Sources */,
 				CDFB884E23ECEC3000B652A6 /* ContentView.swift in Sources */,
+				CD42FC9C23EF467F00E9ADC6 /* RoutinesView.swift in Sources */,
+				CD42FC9E23EF484400E9ADC6 /* RoutinesViewControllerCollectionViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
