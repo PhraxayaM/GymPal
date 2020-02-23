@@ -9,7 +9,7 @@ Updated 2/23:
 Working on new design and trying to create a better UI.
 Improvement to colors but could still use a lot more improvements.
 Updated design and color here
-![Imgur Image](https://imgur.com/a/hECTkS4.png)
+![Imgur Image](https://i.imgur.com/tvrmb1U.png?1)
 
 
 
