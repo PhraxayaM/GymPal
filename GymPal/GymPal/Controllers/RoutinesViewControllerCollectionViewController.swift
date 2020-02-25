@@ -28,7 +28,7 @@ class RoutinesCollectionViewController: UICollectionViewController, UICollection
     }
     
     func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, sizeForItemAt indexPath: IndexPath) -> CGSize {
-        return CGSize(width: self.view.frame.width/2 + 120, height: self.view.frame.height/4 - 150)
+        return CGSize(width: self.view.frame.width/2 + 100, height: self.view.frame.height/4 - 150)
     }
     
     func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, insetForSectionAt section: Int) -> UIEdgeInsets {

@@ -24,6 +24,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         let layout = UICollectionViewFlowLayout()
         let navigationController2 = UINavigationController(rootViewController: FriendsCollectionViewController(collectionViewLayout: layout))
         let navigationController3 = UINavigationController(rootViewController: RoutinesCollectionViewController(collectionViewLayout: layout))
+        let savedResult = UINavigationController(rootViewController: SavedResultsRoutinesViewController())
         
 
         
